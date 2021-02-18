@@ -5,3 +5,4 @@ D04 NumPy 陣列邏輯函式 (Logic functions)
 D05 NumPy 統計函式 Universal Functions (ufunc)
 D06 使用 NumPy 存取各種檔案內容
 D07 NumPy 的矩陣函式與線性代數應用
+D08 NumPy 結構化陣列 (Structured Arrays)
