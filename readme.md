@@ -7,3 +7,5 @@ D06 使用 NumPy 存取各種檔案內容
 D07 NumPy 的矩陣函式與線性代數應用
 D08 NumPy 結構化陣列 (Structured Arrays)
 D09 使用 Pandas 讀寫各種常用的檔案格式
+Pandas 資料索引操作 (資料過濾、選擇與合併)
+
