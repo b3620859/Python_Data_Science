@@ -9,3 +9,5 @@ D08 NumPy 結構化陣列 (Structured Arrays)
 D09 使用 Pandas 讀寫各種常用的檔案格式
 D10 Pandas 資料索引操作 (資料過濾、選擇與合併)
 D11 pandas 類別資料與缺失值處理
+D12 pandas 常見圖表程式設計
+
