@@ -11,3 +11,4 @@ D10 Pandas 資料索引操作 (資料過濾、選擇與合併)
 D11 pandas 類別資料與缺失值處理
 D12 pandas 常見圖表程式設計
 D13 pandas 統計函式使用教學
+D14 用 pandas 撰寫樞紐分析表
