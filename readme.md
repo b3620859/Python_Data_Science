@@ -16,4 +16,5 @@ D15 pandas Split-Apply-Combine Strategy
 D16 pandas 時間序列
 D17 pandas 效能調校
 D18 Python 資料視覺化工具與常見統計圖表介紹
-
+D19 使用 Matplotlib 繪製各種常用圖表
+D20 使用 Seaborn 進行資料視覺化
