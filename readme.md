@@ -15,3 +15,5 @@ D14 用 pandas 撰寫樞紐分析表
 D15 pandas Split-Apply-Combine Strategy
 D16 pandas 時間序列
 D17 pandas 效能調校
+D18 Python 資料視覺化工具與常見統計圖表介紹
+
