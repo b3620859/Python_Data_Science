@@ -21,3 +21,4 @@ D20 使用 Seaborn 進行資料視覺化
 D21 運用實際資料集進行資料視覺化練習
 D22 結合 Pandas 與 Matploglib 進行進階資料視覺化練習
 D23 BOKEH - 輕鬆以網頁呈現視覺化圖表
+D24 Basemap 進行地理資訊繪圖
