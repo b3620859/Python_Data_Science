@@ -23,3 +23,5 @@ D22 結合 Pandas 與 Matploglib 進行進階資料視覺化練習
 D23 BOKEH - 輕鬆以網頁呈現視覺化圖表
 D24 Basemap 進行地理資訊繪圖
 D25 使用 PANDAS 與 BASEMAP 將數據整合於地理資訊圖表
+D26 用統計描述資料的樣態
+
